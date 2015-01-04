@@ -1,4 +1,4 @@
 převést
 =======
 
-A demonstration of USB serial communication between Android and Arduino
+A demonstration of USB serial communication between Android and Arduino.
